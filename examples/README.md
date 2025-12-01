@@ -12,7 +12,7 @@ A lightweight, secure, and modular medical AI agent built using Google’s AI De
 📌 Overview
 
 The Healthcare AI Assistant is an end-to-end medical support agent designed to run in Python / Colab / Jupyter using the Google ADK framework and Gemini API.
-It includes:
+It includes: from 
 
 Clinical question answering
 
@@ -112,11 +112,11 @@ Then create a .env file:
 GEMINI_API_KEY=your_api_key_here
 
 Or set inside notebook:
-
+~~~
 import os
 os.environ["GEMINI_API_KEY"] = "your_api_key_here"
 
-
+~~~
 ---
 
 🧪 Run the Healthcare ADK Agent
