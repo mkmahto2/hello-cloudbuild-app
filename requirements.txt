@@ -1,0 +1,12 @@
+# Optional dependencies for the ADK. Install only if you intend to use real
+# Google Cloud APIs in your environment.
+google-cloud-language>=2.0.0
+google-cloud-vision>=3.0.0
+
+# Image / OCR (optional)
+# Pillow for image handling, pytesseract for local OCR
+Pillow>=9.0.0
+pytesseract>=0.3.10
+
+# Test tooling
+pytest>=7.0.0

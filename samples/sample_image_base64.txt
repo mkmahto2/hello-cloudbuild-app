@@ -1,0 +1,5 @@
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=
+
+# This file contains a tiny 1x1 PNG image encoded in base64. The demo notebook
+# decodes this content into `samples/sample.png` so the example can run without
+# shipping a binary image file in the repo.
