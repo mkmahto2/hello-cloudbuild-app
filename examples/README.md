@@ -147,7 +147,7 @@ agent.run_json("Symptoms: fever, cough, sore throat")
 Your project includes an ADK-powered agent similar to:
 
 from google import genai
-
+~~~
 class HealthcareAIAgent:
     def __init__(self):
         self.client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
@@ -163,7 +163,7 @@ class HealthcareAIAgent:
         )
         return completion.text
 
-
+~~~
 ---
 
 🧱 Prompting & Safety Layer
@@ -230,29 +230,3 @@ Always consult a licensed professional.
 
 ---
 
-📬 Support
-
-For additions, improvements, or a customized ZIP package:
-Just ask — I can generate complete folders, code, and zipped files.
-
-
----
-
-If you'd like, I can now:
-✅ Generate the complete ZIP
-✅ Include all .py files
-✅ Include architecture images
-✅ Insert demo data
-✅ Insert the full notebook with Markdown + code cells
-
-Just tell me: "Create full ZIP now".
-Dear Hiring Team,
-
-I am writing to express my keen interest in the Network Engineer position. With over 3 years of experience in network engineering, I possess a strong foution in networking technologies, including LAN/WAN, Cisco routers, switches, firewalls, and network security. I am confident in my ability to contribute effectively to your team through my experience in configuring, troubleshooting, and maintaining network infrastructure.
-
-My resume is attached for your review, which further details my skills and experiences. I welcome the opportunity to discuss how I can support your organization's goals.
-
-Thank you for your time and consideration.
-
-Best regards,
-Mukesh Kumar Mahto 
